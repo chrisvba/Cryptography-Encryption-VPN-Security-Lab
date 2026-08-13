@@ -1,0 +1,22 @@
+plaintext-file.png
+    ├── aes-encryption.png
+    ├── aes-decryption.png
+    ├── hash-comparison.png
+    ├── hash-avalanche-effect.png
+    ├── hmac-generation.png
+    ├── hmac-tamper-detection.png
+    ├── rsa-private-key.png
+    ├── rsa-public-key.png
+    ├── rsa-encryption-decryption.png
+    ├── digital-signature-verification.png
+    ├── digital-signature-tamper.png
+    ├── x509-certificate-generation.png
+    ├── x509-certificate-inspection.png
+    ├── dns-lookup-google.png
+    ├── dns-lookup-example.png
+    ├── dns-traffic-analysis.png
+    ├── wireshark-dns.png
+    ├── wireshark-http.png
+    ├── wireshark-tls.png
+    ├── wireshark-port-80.png
+    └── wireshark-port-443.png
